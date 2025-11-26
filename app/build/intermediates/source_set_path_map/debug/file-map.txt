@@ -1,0 +1,35 @@
+com.example.myapp-jetified-annotation-experimental-1.3.0-0 C:\Users\Lakshita\.gradle\caches\transforms-3\02a6a40da2f9f71a535dbde7a409251b\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.myapp-cardview-1.0.0-1 C:\Users\Lakshita\.gradle\caches\transforms-3\086a90d5a24c6d4d3ea295e70fccf56e\transformed\cardview-1.0.0\res
+com.example.myapp-jetified-viewpager2-1.1.0-beta02-2 C:\Users\Lakshita\.gradle\caches\transforms-3\0a9c167c2f2133e9ab4b8e99b72d874f\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.myapp-coordinatorlayout-1.1.0-3 C:\Users\Lakshita\.gradle\caches\transforms-3\167067c6423b2236cb851b7a348ef8ff\transformed\coordinatorlayout-1.1.0\res
+com.example.myapp-jetified-customview-poolingcontainer-1.0.0-4 C:\Users\Lakshita\.gradle\caches\transforms-3\1887fac7d8a3c6c6059ed8e9612cb1ab\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.myapp-jetified-activity-1.8.0-5 C:\Users\Lakshita\.gradle\caches\transforms-3\1bba63a9a4ba98b89d0f6e0e7277e1ac\transformed\jetified-activity-1.8.0\res
+com.example.myapp-constraintlayout-2.1.4-6 C:\Users\Lakshita\.gradle\caches\transforms-3\29fc88f6217561ae6988b441405b37cd\transformed\constraintlayout-2.1.4\res
+com.example.myapp-jetified-savedstate-1.2.1-7 C:\Users\Lakshita\.gradle\caches\transforms-3\2b09df8b238c59b73498653547e5b63c\transformed\jetified-savedstate-1.2.1\res
+com.example.myapp-fragment-1.3.6-8 C:\Users\Lakshita\.gradle\caches\transforms-3\3fbb85be6ac454bab95d7fa02ce7dd5f\transformed\fragment-1.3.6\res
+com.example.myapp-jetified-appcompat-resources-1.6.1-9 C:\Users\Lakshita\.gradle\caches\transforms-3\4397a4018e53cc568a8f29e4e449cb39\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.myapp-material-1.10.0-10 C:\Users\Lakshita\.gradle\caches\transforms-3\4b70a8e490281f7624546b29582c8e40\transformed\material-1.10.0\res
+com.example.myapp-jetified-lifecycle-process-2.6.1-11 C:\Users\Lakshita\.gradle\caches\transforms-3\537bc6f0cbb7983d31c833112d01f83e\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.myapp-core-runtime-2.2.0-12 C:\Users\Lakshita\.gradle\caches\transforms-3\5915f53b6dad3df2f7b967a0b289d3fc\transformed\core-runtime-2.2.0\res
+com.example.myapp-lifecycle-livedata-2.6.1-13 C:\Users\Lakshita\.gradle\caches\transforms-3\5fe3f18631ce2f6b90d39070ec33982b\transformed\lifecycle-livedata-2.6.1\res
+com.example.myapp-jetified-emoji2-views-helper-1.2.0-14 C:\Users\Lakshita\.gradle\caches\transforms-3\6627d5830cfbed6b97f369b8a2c60dc0\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.myapp-jetified-profileinstaller-1.3.0-15 C:\Users\Lakshita\.gradle\caches\transforms-3\72e37c987ae8e3bca65699199291f79f\transformed\jetified-profileinstaller-1.3.0\res
+com.example.myapp-lifecycle-livedata-core-2.6.1-16 C:\Users\Lakshita\.gradle\caches\transforms-3\7970d5ec21a966edb04bf3e0e3ff3ff0\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.myapp-lifecycle-runtime-2.6.1-17 C:\Users\Lakshita\.gradle\caches\transforms-3\882a9deaa6e708efc827537075e94131\transformed\lifecycle-runtime-2.6.1\res
+com.example.myapp-transition-1.2.0-18 C:\Users\Lakshita\.gradle\caches\transforms-3\8b6903c6d7e4437d4b3374aae50453cf\transformed\transition-1.2.0\res
+com.example.myapp-jetified-lifecycle-viewmodel-savedstate-2.6.1-19 C:\Users\Lakshita\.gradle\caches\transforms-3\900730eca52bb9528163275f5a58512c\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.myapp-jetified-startup-runtime-1.1.1-20 C:\Users\Lakshita\.gradle\caches\transforms-3\91d9e8de3920c1260bc1c30a14836fe3\transformed\jetified-startup-runtime-1.1.1\res
+com.example.myapp-appcompat-1.6.1-21 C:\Users\Lakshita\.gradle\caches\transforms-3\94e9d994534c624322df71a520c5fc6e\transformed\appcompat-1.6.1\res
+com.example.myapp-lifecycle-viewmodel-2.6.1-22 C:\Users\Lakshita\.gradle\caches\transforms-3\d56dd41fa1268c48dcf323badb209072\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.myapp-drawerlayout-1.1.1-23 C:\Users\Lakshita\.gradle\caches\transforms-3\dea0a31f809c33d32b25b5f9655423ca\transformed\drawerlayout-1.1.1\res
+com.example.myapp-recyclerview-1.3.2-24 C:\Users\Lakshita\.gradle\caches\transforms-3\e4be79bd9196455f42c4ed638e5a5ea5\transformed\recyclerview-1.3.2\res
+com.example.myapp-jetified-emoji2-1.2.0-25 C:\Users\Lakshita\.gradle\caches\transforms-3\e83f980376914ef625a060fbe99231ee\transformed\jetified-emoji2-1.2.0\res
+com.example.myapp-core-1.9.0-26 C:\Users\Lakshita\.gradle\caches\transforms-3\ec6dd3318f4e5eff4b202d8ad3c5aa6e\transformed\core-1.9.0\res
+com.example.myapp-jetified-core-ktx-1.9.0-27 C:\Users\Lakshita\.gradle\caches\transforms-3\ed9353dbfbb5ecdb69137f77e03ccfb5\transformed\jetified-core-ktx-1.9.0\res
+com.example.myapp-pngs-28 C:\Users\Lakshita\Desktop\Streak Marker\app\build\generated\res\pngs\debug
+com.example.myapp-resValues-29 C:\Users\Lakshita\Desktop\Streak Marker\app\build\generated\res\resValues\debug
+com.example.myapp-packageDebugResources-30 C:\Users\Lakshita\Desktop\Streak Marker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapp-packageDebugResources-31 C:\Users\Lakshita\Desktop\Streak Marker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapp-merged_res-32 C:\Users\Lakshita\Desktop\Streak Marker\app\build\intermediates\merged_res\debug
+com.example.myapp-debug-33 C:\Users\Lakshita\Desktop\Streak Marker\app\src\debug\res
+com.example.myapp-main-34 C:\Users\Lakshita\Desktop\Streak Marker\app\src\main\res

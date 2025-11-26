@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.myapp-merged_res-32:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.myapp-main-34:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-merged_res-32:\\layout_item_habit.xml.flat",
+        "source": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-main-34:\\layout\\item_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-merged_res-32:\\drawable_rounded_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Lakshita\\.gradle\\daemon\\8.3\\com.example.myapp-main-34:\\drawable\\rounded_edittext_bg.xml"
+    }
+]

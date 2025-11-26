@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable rounded_edittext_bg
+id addHabitButton
+id emptyState
+id habitInput
+id habitName
+id habitsRecyclerView
+id markButton
+id streakIndicator
+id streakInfo
+id totalStreaksText
+layout activity_main
+layout item_habit
+string app_name
+style AppTheme
