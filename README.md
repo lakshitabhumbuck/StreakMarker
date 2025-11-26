@@ -1,6 +1,6 @@
 # Streak Marker App
 
-A simple and intuitive Android app to track habits and maintain streaks. Build consistency, one day at a time! 🔥
+A simple and intuitive Android app to track habits and maintain streaks. 
 
 ## Features
 
@@ -13,7 +13,6 @@ A simple and intuitive Android app to track habits and maintain streaks. Build c
 
 ### Gamification
 - **Milestone Celebrations**: Get notified at 7, 30, and 100-day milestones
-- **Visual Feedback**: Fire emoji (🔥) shows active streaks
 - **Progress Tracking**: See your consistency at a glance
 
 ### Data Persistence
@@ -27,12 +26,6 @@ A simple and intuitive Android app to track habits and maintain streaks. Build c
 2. **Mark Complete**: Tap "Mark Complete" button on any habit to mark it for today
 3. **View Details**: Tap on a habit card to see detailed statistics
 4. **Delete Habit**: View details and tap "Delete Habit" to remove a habit
-
-## Building the App
-
-1. Open the project in Android Studio
-2. Sync Gradle files (Android Studio will prompt you)
-3. Build and run on an Android device or emulator (API 24 or higher)
 
 ## Project Structure
 
@@ -59,6 +52,3 @@ Potential features for future versions:
 - Badges and achievements
 - Weekly/monthly summaries
 
-## License
-
-This is a simple educational project. Feel free to use and modify as needed.
